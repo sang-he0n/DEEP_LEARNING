@@ -1,10 +1,11 @@
-#File
+#Files
 *.DS_Store
 *.pptx
 *.svg
 
-#Directory
-/css
-/data
-/markdown
-/output
+#Directories
+**/css
+**/data
+**/markdown
+**/output
+**/model
